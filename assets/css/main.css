@@ -1652,7 +1652,7 @@ body.is-preload #header .content .inner {
   opacity: 0;
 }
 
-#main article#journey-map {
+#main article#journey-map, #main article#propuesta-de-valor {
   width: 60rem;
 }
 
